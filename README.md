@@ -8,7 +8,7 @@
 
 <!-- Add the new Behance image -->
 <div align="right">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/522921161921919.63cd7887b1b74.gif" width="100%" />
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 </div>
 
 - 🌱 I’m currently learning **Next.js**
