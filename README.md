@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Full stack developer</h3>
 
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
 
 - 🌱 I’m currently learning **Next.js**
