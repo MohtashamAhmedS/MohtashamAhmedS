@@ -6,10 +6,9 @@
 <h1 align="center">Hi 👋, I'm Mohtasham Ahmed</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<!-- Add the new Behance image -->
-<div align="right">
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-</div>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
 
 - 🌱 I’m currently learning **Next.js**
 
